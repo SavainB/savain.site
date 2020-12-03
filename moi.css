@@ -1,8 +1,42 @@
+#conteneur,#divFooter{
+ 	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+  	 flex-direction: row;
+  	 text-align: center;}
+.imgmenu{
+width:180px;
+height:180px;}
 
-html { 
-  background: url(image/star.jpg) no-repeat center center fixed; 
+
+
+html{ 
+  background: url(image/Background_Mood.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;}
+
+footer{
+position:absolute;
+bottom:0;
+width:100%;
+padding-top:50px;
+height:50px;}
+.imgfoot{
+width:40px;
+height:40px;
 }
+
+p,li,a{
+  color: white;
+}
+h1{
+text-align: center;
+color: red;
+}
+h2,h3{
+	color: red;
+}
+a{
+display:inline-block;}

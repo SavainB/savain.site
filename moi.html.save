@@ -22,7 +22,7 @@
                       </a> 
                     <a href="Page_project.html" id="">  <img  src="image/Hobbies.png" alt="un fond noir avec une personne avec un ballon" class="imgmenu"/>
                        <br />
-                       <span>Mes activités</span>
+                       <span>Récré</span>
                     </a> 
                    </div>
                   
@@ -40,14 +40,12 @@
                             <br/> <br/> regarder des animes,
                             <br/> <br/>jouer à des jeux comme osu, 
                             <br/> <br/> lire des bouquin,
-                            <br/> <br/> le dessin,
                             <br/> <br/> faire du basket ... 
-                            <br/><br/> </p><embed src=http://monsite.fr/monfichier.pdf width=800 height=500 type='application/pdf'/>
+                            <br/><br/> </p>
                      
                           <h3>Me contacter !</h3>
                           <p>Vous pouvez me contacter par mail : savain.blaneus20@gmail.com 
-                            <br/> <br/> Aussi par mon adresse universitaire :  
-                            <br/><br/>Mon cv si cela vous intéresse : <a href=Curriculum_vitae_Savain_Blaneus.pdf>CV</a>   </p>
+	                            <br/> <br/> Aussi par mon adresse universitaire :  <br/><br/>  </p>
                    
         
 
@@ -61,7 +59,6 @@
                       <a href="https://www.youtube.com/channel/UC6YHHEKR4Xp9FQwziJQAdpQ?view_as=subscriber"><img src="image/yt.png" alt="jeux" class="imgfoot"/></a>
                           <a href="https://www.instagram.com/savain.kayle/" id="merd">  <img  src="image/insta.png" alt="jeux" class="imgfoot"/></a> 
                           <a href="https://code.up8.edu/sjk" id="merd">  <img  src="image/logogit.png" alt="jeux" class="imgfoot"/></a> 
-                          <a href="https://github.com/SavainB" id="merd">  <img  src="image/Logo_Github.png" alt="jeux" class="imgfoot"/></a> 
                 </div>
         </footer>
         
